@@ -1,0 +1,20 @@
+h1{
+    color: rgb(0, 0, 0);
+    font-family: Arial, Helvetica, sans-serif;
+}
+h3{
+    color: darkblue;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style:italic;
+}
+p{
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+html {background-image: url(https://45secondes.fr/wp-content/uploads/2020/11/1605891494_348_Les-meilleurs-fonds-decran-pour-votre-mobile-TOP-mis-a.jpg);
+background-size: cover;
+background-repeat:no-repeat;
+background-position: center;
+font-family: sans-serif;
+font-size: 20px;
+}   
